@@ -1,0 +1,18 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "simple todoapp",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.0-rc2",
+    "morgan": "^1.9.0"
+  }
+}
